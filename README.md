@@ -102,13 +102,13 @@ The **Piston API** allows users to run code in multiple programming languages. T
 
 Example request to Piston:
 ```json
-{
-  "language": "c++",
-  "version": "20",
-  "files": [
-    { "content": "print('Hello World')" }
-  ]
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
 }
+
 ```
 
 📸 **#Compiler_UI_Screenshot**
