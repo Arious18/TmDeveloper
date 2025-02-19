@@ -101,14 +101,14 @@ The **Piston API** allows users to run code in multiple programming languages. T
 4. The result is sent back to the frontend and displayed.
 
 Example request to Piston:
-```json
 
+```cpp
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+std::cout << "Hello, World!" << std::endl;
+return 0;
+} ```
 
 ```
 
