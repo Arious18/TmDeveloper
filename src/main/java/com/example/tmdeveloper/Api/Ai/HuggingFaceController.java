@@ -15,7 +15,7 @@ import java.util.Map;
 public class HuggingFaceController {
 
     private final String API_URL = "https://api-inference.huggingface.co/models/openai-community/gpt2";
-    private final String API_KEY = "Bearer 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"; // API anahtarını değiştir
+    private final String API_KEY = "Your api key"; // API anahtarını değiştir
 
     @PostMapping(value = "/chat", produces = MediaType.TEXT_EVENT_STREAM_VALUE)
     public Flux<String> chatWithAI(@RequestBody Map<String, String> request) {
