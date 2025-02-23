@@ -1,5 +1,8 @@
 # Developer Learning Platform
 ![Screenshot 2025-02-19 210211](https://github.com/user-attachments/assets/13108b1f-94d2-4fe0-8f28-6d02ec41faa5)
+![Screenshot 2025-02-23 175814](https://github.com/user-attachments/assets/9a12253a-5b7d-4aee-aeba-4357ce631de1)
+![Screenshot 2025-02-23 175832](https://github.com/user-attachments/assets/2366e36c-9a04-4112-ad60-7d27b36a8cc6)
+
 ![Screenshot 2025-02-19 210243](https://github.com/user-attachments/assets/07bccd77-2a8d-495a-8e63-45b5761af393)
 ![Screenshot 2025-02-19 210226](https://github.com/user-attachments/assets/17849513-5a42-4a2b-a977-9f2c7f548aef)
 ## Overview
